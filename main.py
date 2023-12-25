@@ -9,7 +9,6 @@ This is a todo app
 Please follow below steps
 """
 print(intro_text)
-# todos = []
 while True:
     user_action = input("Type add, show, edit, complete or exit:")
     user_action = user_action.strip()
