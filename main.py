@@ -9,8 +9,6 @@ This is a todo app
 Please follow below steps
 """
 print(intro_text)
-
-user_prompt = "Enter a todo:"
 # todos = []
 while True:
     user_action = input("Type add, show, edit, complete or exit:")
